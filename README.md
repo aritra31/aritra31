@@ -15,7 +15,8 @@ I am Aritra Ray 😃. I am from Kolkata, West Bengal and currently doing my B.Te
 - ☕ &nbsp; Coffee be my stress-buster
 
 <h3> 🛠 Tech Stack </h3>
-Talk to me about
+
+Talk to me about...
 - 💻 &nbsp; Backend development using **Django**
 - 💻 &nbsp; Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - 🌐 &nbsp; Platforms like **Android Studio | PyCharm | Visual Studio code | Git | Vscode**
@@ -27,9 +28,8 @@ Talk to me about
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=d3d3d3&icon_color=000000&text_color=D3D3D3&bg_color=0,000000,110d34" alt="Aritra's Github Stats">
 </br>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra31&layout=compact&text_color=daf7dc&bg_color=110d34)](https://github.com/aritra31/github-readme-stats)
-<h3> 👨 Profile Visits: </h3>
-(https://profile-counter.glitch.me/aritra31/count.svg)-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra31&layout=compact&text_color=daf7dc&bg_color=110d34)](https://github.com/aritra31/github-readme-stats)-->
 
 
 <h3> 🤝🏻 Lookin' forward to connect with you! </h3>
