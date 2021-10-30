@@ -1,10 +1,11 @@
 <h2> Hey there! I'm Aritra! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 I am Aritra Ray 😃. I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institute of Engineering and Management, Kolkata 🏫. "Learning on the go" keeps me going on.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 💼 &nbsp; Working at Web Idea Solutions as a Django developer
 - 🔭 &nbsp; I’m currently learning Cloud Computing and JavaScript
 - 🤔 &nbsp; Exploring new technologies and developing software solutions 
 - 🎓 &nbsp; Pursuing B.tech in Computer Science Engineering; IEM, Kolkata
@@ -27,8 +28,8 @@ Talk to me about
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=d3d3d3&icon_color=000000&text_color=D3D3D3&bg_color=0,000000,110d34" alt="Aritra's Github Stats">
 </br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra31&layout=compact&text_color=daf7dc&bg_color=110d34)](https://github.com/aritra31/github-readme-stats)-->
-<h3> Profile Visits: </h3>
-![Visitor Count](https://profile-counter.glitch.me/aritra31/count.svg)
+<h3> 👨 Profile Visits: </h3>
+(https://profile-counter.glitch.me/aritra31/count.svg)
 
 
 <h3> 🤝🏻 Lookin' forward to connect with you! </h3>
