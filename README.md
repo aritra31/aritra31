@@ -1,5 +1,5 @@
-<h2> Hey there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Aritra! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://gfycat.com/cheeryseparategoldeneye" width="300"/>
+<h2> Hey there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Aritra. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="400"/>
 
 I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institute of Engineering and Management, Kolkata. "Learning on the go" keeps me going on.
 
@@ -34,7 +34,7 @@ Talk to me about...
 
 <h3> 🤝🏻 Lookin' forward to connect with you! </h3>
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/_aritra.ray_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/aritraray/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:aritra805@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/_aritra.ray_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
