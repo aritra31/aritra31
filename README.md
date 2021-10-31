@@ -1,5 +1,5 @@
 <h2> Hey there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Aritra. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="400"/>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="350"/>
 
 I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institute of Engineering and Management, Kolkata. "Learning on the go" keeps me going on.
 
@@ -8,9 +8,9 @@ I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institu
 - &nbsp; Working at Web Idea Solutions as a Django developer
 - &nbsp; I’m currently learning Cloud Computing and JavaScript
 - &nbsp; Exploring new technologies and developing software solutions 
-- &nbsp; Pursuing B.tech in Computer Science Engineering; IEM, Kolkata
 - &nbsp; Cloud Enthusiast
 - &nbsp; Machine Learning and Artificial Intelligence draws me.
+- &nbsp; Content writing passes me bliss
 - &nbsp; Playing synthesizer and sketching as hobbies/side hustles.
 - &nbsp; Coffee be my stress-buster
 
