@@ -5,25 +5,25 @@ I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institu
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working at Web Idea Solutions as a Django developer
-- 🔭 &nbsp; I’m currently learning Cloud Computing and JavaScript
-- 🤔 &nbsp; Exploring new technologies and developing software solutions 
-- 🎓 &nbsp; Pursuing B.tech in Computer Science Engineering; IEM, Kolkata
-- 💼 &nbsp; Cloud Enthusiast
-- 💼 &nbsp; Machine Learning and Artificial Intelligence draws me.
-- ✍️ &nbsp; Playing synthesizer and sketching as hobbies/side hustles.
-- ☕ &nbsp; Coffee be my stress-buster
+- &nbsp; Working at Web Idea Solutions as a Django developer
+- &nbsp; I’m currently learning Cloud Computing and JavaScript
+- &nbsp; Exploring new technologies and developing software solutions 
+- &nbsp; Pursuing B.tech in Computer Science Engineering; IEM, Kolkata
+- &nbsp; Cloud Enthusiast
+- &nbsp; Machine Learning and Artificial Intelligence draws me.
+- &nbsp; Playing synthesizer and sketching as hobbies/side hustles.
+- &nbsp; Coffee be my stress-buster
 
 <h3> 🛠 Tech Stack </h3>
 
 Talk to me about...
-- 💻 &nbsp; Backend development using **Django**
-- 💻 &nbsp; Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- 🌐 &nbsp; Platforms like **Android Studio | PyCharm | Visual Studio code | Git | Vscode**
-- 🛢 &nbsp; **MySQL | Firebase | Xampp**
-- 🖥 &nbsp; Android application development using **Flutter**(Still learning)
-- 🌐 &nbsp; Creating scalable cloud architecture using **AWS Cloud**
-- ✍️ &nbsp; Solving Data structure and algorithm questions in **C++ and Python**
+- &nbsp; Backend development using **Django**
+- &nbsp; Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- &nbsp; Platforms like **Android Studio | PyCharm | Visual Studio code | Git | Vscode**
+- &nbsp; **MySQL | Firebase | Xampp**
+- &nbsp; Android application development using **Flutter**(Still learning)
+- &nbsp; Creating scalable cloud architecture using **AWS Cloud**
+- &nbsp; Solving Data structure and algorithm questions in **C++ and Python**
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=d3d3d3&icon_color=000000&text_color=D3D3D3&bg_color=0,000000,1B4A4A" alt="Aritra's Github Stats">
