@@ -1,4 +1,4 @@
-<h2> Hey </coders>! I'm Aritra! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Aritra! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institute of Engineering and Management, Kolkata. "Learning on the go" keeps me going on.
