@@ -5,7 +5,7 @@ I am from Kolkata, West Bengal and currently doing my B.Tech in CSE from Institu
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- &nbsp; Working at Web Idea Solutions as a Django developer
+- &nbsp; Working at Web Idea Solutions LLP as a Django developer
 - &nbsp; I’m currently learning Cloud Computing and JavaScript
 - &nbsp; Exploring new technologies and developing software solutions 
 - &nbsp; Cloud Enthusiast
