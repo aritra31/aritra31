@@ -19,7 +19,6 @@ Talk to me about...
 - &nbsp; Backend development using **Django**
 - &nbsp; Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - &nbsp; Platforms like **Android Studio | PyCharm | Visual Studio code | Git | Vscode**
-- &nbsp; **MySQL | Firebase | Xampp**
 - &nbsp; Android application development using **Flutter**(Still learning)
 - &nbsp; Creating scalable cloud architecture using **AWS Cloud**
 - &nbsp; Solving Data structure and algorithm questions in **C++ and Python**
