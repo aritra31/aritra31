@@ -14,7 +14,7 @@ I am a grad student currently pursuing her Masters in Applied Analytics from Bos
 - &nbsp; Coffee be my stress-buster
 
 
-<br>
+<!--<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=d3d3d3&icon_color=000000&text_color=D3D3D3&bg_color=0,000000,1B4A4A" alt="Aritra's Github Stats">
 </br>
 
