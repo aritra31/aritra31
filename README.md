@@ -1,4 +1,4 @@
-<h2>Hey, I’m Aritra.</h2>
+<h2>Hello! I’m Aritra.</h2>
 
 <img align="right" alt="Analytics GIF" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="300"/>
 
